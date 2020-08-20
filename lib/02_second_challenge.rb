@@ -15,6 +15,4 @@ def second_challenge
       :hero => {} , 
       :hero_friends => []
     }
-
-  
 end
